@@ -20029,7 +20029,7 @@ aa5(){var s=0,r=A.P(t.Ax),q,p=2,o,n,m,l,k,j,i,h
 var $async$aa5=A.Q(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return A.W(A.awL(A.dr("https://cors-anywhere.herokuapp.com/http://arshad.my.id/api/get/projects",0,null)),$async$aa5)
+return A.W(A.awL(A.dr("https://proxy.cors.sh/http://arshad.my.id/api/get/projects",0,null)),$async$aa5)
 case 7:n=b
 A.ig("Response status: "+n.b)
 j=n
@@ -62469,7 +62469,7 @@ $S:0}
 A.a72.prototype={
 $0(){var s=0,r=A.P(t.P),q
 var $async$$0=A.Q(function(a,b){if(a===1)return A.M(b,r)
-while(true)switch(s){case 0:q=A.dr("https://cors-anywhere.herokuapp.com/https://drive.google.com/file/d/1WrEVhbjWqH1XcNAUuYo6qTDyAT8ZZzgg/view?usp=sharing",0,null)
+while(true)switch(s){case 0:q=A.dr("https://proxy.cors.sh/https://drive.google.com/file/d/1WrEVhbjWqH1XcNAUuYo6qTDyAT8ZZzgg/view?usp=sharing",0,null)
 s=2
 return A.W(A.q2(q),$async$$0)
 case 2:if(!b)throw A.d(A.cv("Could not launch "+q.j(0)))
@@ -62479,7 +62479,7 @@ $S:38}
 A.a74.prototype={
 $0(){var s=0,r=A.P(t.P),q
 var $async$$0=A.Q(function(a,b){if(a===1)return A.M(b,r)
-while(true)switch(s){case 0:q=A.dr("https://cors-anywhere.herokuapp.com/https://www.linkedin.com/in/muhammad-fawwaz-arshad-said-086956245/",0,null)
+while(true)switch(s){case 0:q=A.dr("https://proxy.cors.sh/https://www.linkedin.com/in/muhammad-fawwaz-arshad-said-086956245/",0,null)
 s=2
 return A.W(A.q2(q),$async$$0)
 case 2:if(!b)throw A.d(A.cv("Could not launch "+q.j(0)))
@@ -62489,7 +62489,7 @@ $S:38}
 A.a73.prototype={
 $0(){var s=0,r=A.P(t.P),q
 var $async$$0=A.Q(function(a,b){if(a===1)return A.M(b,r)
-while(true)switch(s){case 0:q=A.dr("https://cors-anywhere.herokuapp.com/https://dribbble.com/arshadsaid_",0,null)
+while(true)switch(s){case 0:q=A.dr("https://proxy.cors.sh/https://dribbble.com/arshadsaid_",0,null)
 s=2
 return A.W(A.q2(q),$async$$0)
 case 2:if(!b)throw A.d(A.cv("Could not launch "+q.j(0)))
