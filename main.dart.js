@@ -20029,7 +20029,7 @@ aa5(){var s=0,r=A.P(t.Ax),q,p=2,o,n,m,l,k,j,i,h
 var $async$aa5=A.Q(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return A.W(A.awL(A.dr("https://corsproxy.io/?http://arshad.my.id/api/get/projects",0,null)),$async$aa5)
+return A.W(A.awL(A.dr("https://proxy.cors.sh/https://aboutme-git-main-arshads-projects-e202d03c.vercel.app/api/get/projects",0,null)),$async$aa5)
 case 7:n=b
 A.ig("Response status: "+n.b)
 j=n
